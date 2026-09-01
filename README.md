@@ -1,4 +1,3 @@
-[streetview-demo noapikey.html](https://github.com/user-attachments/files/31671084/streetview-demo.noapikey.html)
 <!doctype html>
 <!--
  @license
